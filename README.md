@@ -31,7 +31,7 @@ This project is part of the exploration into privacy-preserving DeFi, showing ho
 ## ⚡ Installation & Running
 
    ```bash
-   git clone https://github.com/cierrastinky/ZENCHAIN-PRIVATE-DEFI.git
+   git clone https://github.com/cierrastinky/Zenchain-Defi-App.git
    ```
 
 1. Install dependencies:
