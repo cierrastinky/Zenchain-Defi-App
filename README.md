@@ -1,6 +1,6 @@
 # ZENCHAIN PRIVATE DEFI
 
-Zenchain Private DeFi is a Next.js decentralized application (dApp) that demonstrates how to perform confidential financial operations on blockchain using Fully Homomorphic Encryption (FHE) with the ZTC (Zenchain Trusted Computation). 
+Zenchain Private DeFi is a Next.js decentralized application (dApp) that demonstrates how to perform confidential financial operations on blockchain with the ZTC (Zenchain Trusted Computation). 
 
 In traditional DeFi systems, transaction data such as amounts, recipients, and balances are visible on-chain to everyone, which compromises user privacy. This project solves that problem by leveraging ZTC-powered smart contracts to encrypt and process all sensitive values, ensuring that:
 
